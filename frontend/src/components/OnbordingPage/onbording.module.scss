@@ -1,0 +1,21 @@
+@import '@/styles';
+.button__next{
+    width: 100%;
+    align-items: left;
+}
+.onbording{    
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;    
+}
+.buttons{
+    margin-top: 10px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+p.genderText {
+    font-weight: 600;
+    font-size: 24px;
+}

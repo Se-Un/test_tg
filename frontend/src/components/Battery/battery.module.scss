@@ -1,0 +1,35 @@
+.battery {
+    display: flex;
+    align-items: center; 
+    border-radius: 30px;
+    overflow: hidden; 
+    width: 100%;
+    height: 32px;
+    background-color: #BEC7FC; 
+    position: relative; 
+  
+    & .leftPart {
+        height: 32px;
+        border-top-right-radius: 30px; 
+  border-bottom-right-radius: 30px; 
+      background-color: #3858A8; 
+      transition: width 0.5s; 
+    }
+  
+    & .rightPart {
+        height: 32px;
+        border-top-left-radius: 8px; 
+        border-bottom-left-radius: 8px;
+      background-color: #BEC7FC; 
+      transition: width 0.5s; 
+    }
+  
+    & .batteryText {
+      position: absolute; 
+      width: 100%; 
+      text-align: center; 
+      font-weight: bold; 
+      color: black;
+      z-index: 2; 
+    }
+  }

@@ -1,0 +1,17 @@
+@import '@/styles';
+.buttonText {
+    background: linear-gradient(126.97deg, #565653 8.14%, #0F0F0C 79.06%);
+    color: $white;
+    width: 274px;
+    height: 60px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  
+    &:hover {
+      transform: scale(1.05);
+    }
+  }

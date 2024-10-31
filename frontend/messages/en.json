@@ -1,0 +1,71 @@
+{
+  "header": {
+    "title": "Header title"
+  },
+  "onBoardingItems": {
+    "buttonText": {
+      "start": "Start",
+      "next": "Next",
+      "back": "Back"
+    },
+    "pageOne": {
+      "title": "Welcome to Startup Journey!",
+      "text": "In this game, you’re building your path to becoming a successful entrepreneur. As you develop your character, you’ll gain real-world knowledge and essential skills to create and grow your own business. The more you invest in your growth, the greater your success will be—both in the game and in life!"
+    },
+    "pageTwo": {
+      "text": "Who will you be on your startup journey? Choose the appearance of your hero to get started."
+    },
+    "pageGender": {
+      "textBoy": "Begin your adventure as a male entrepreneur ready to change the world.",
+      "boy": "Boy",
+      "textGirl": "Start your quest as a female entrepreneur poised to make a difference.",
+      "girl": "Girl"
+    },
+    "pageCareer": {
+      "text": "Every successful startup founder has a core strength. Choose your main area of expertise to define your starting skills and set the course for your entrepreneurial journey.",
+      "profession": {
+        "titles": {
+          "title_1": "Technical Genius",
+          "title_2": "Product Visionary",
+          "title_3": "Marketing Master",
+          "title_4": "Crypto Specialist",
+          "title_5": "Design Innovator"
+        },
+        "subTitle": {
+          "title_1": "Description",
+          "title_2": "Future Path"
+        },
+        "texts": {
+          "text_1": {
+            "description": "You excel at coding and technology, turning ideas into functional products.",
+            "path": "Focus on product development, innovation, and tech leadership"
+          },
+          "text_2": {
+            "description": "You have a keen eye for market needs and can turn concepts into viable products.",
+            "path": "Specialize in product management, user experience, and strategic planning."
+          },
+          "text_3": {
+            "description": "You know how to capture attention and drive user engagement.",
+            "path": "Lead marketing campaigns, brand building, and customer acquisition"
+          },
+          "text_4": {
+            "description": "Expert in digital assets and blockchain technology.",
+            "path": "Drive crypto investments and DeFi growth."
+          },
+          "text_5": {
+            "description": "You create intuitive and beautiful designs that users love",
+            "path": "Focus on UI/UX design, product aesthetics, and user engagement."
+          }
+        }
+      }
+    },
+    "pageEarn": {
+      "title": "How to earn points:",
+      "text": "Tap on the screen in the \"Dashboard\" section to collect points. Complete tasks in the \"Tasks\" section to gain additional rewards. Invite friends through the \"Network\" section to earn bonus points. Every 8 hours, your points automatically increase based on your character’s level."
+    },
+    "pageUse": {
+      "title": "How to use points:",
+      "text": "Purchase courses with your points. Complete the course and pass a test to gain valuable knowledge and earn even more points than you spent! By advancing your character, you’re not just playing—you’re preparing yourself with practical skills and knowledge for real-world success. Start your journey, invest in yourself, and unlock your potential"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+@import '@/styles';
+.page, .main {
+    max-width: $mobile425;
+    width: 100%;
+    min-height: $mobileHeight;
+}
+.page {
+    margin: 0 auto;
+}

@@ -1,0 +1,8 @@
+node_modules/
+public/
+out/
+.next/
+i18n/
+.husky/
+.github/
+.git/
